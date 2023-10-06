@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 16px;
+  background-color: lightblue;
+}
+
+#skills, #empresas, #projetos {
+  height: 800px;
+}
